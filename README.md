@@ -56,7 +56,7 @@ environmental sensor data to support climate response operations.
 **[Undergraduate Research Poster](https://undergraduate.rsmas.miami.edu/_assets/pdf/2021-2022/rurs_pdf/tgill_poster.pdf)**  
 *University of Miami RURS Symposium (2022)*
 
---
+---
 
 ## 📬 Get In Touch
 📧 taylorgill249@gmail.com  
