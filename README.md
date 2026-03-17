@@ -35,6 +35,9 @@ API Integration, Remote Sensing
 monitoring dashboard built for NOAA AOML. Displays real-time 
 environmental sensor data to support climate response operations.
 
+📰 **[Featured in NOAA Web Story](https://www.aoml.noaa.gov/ocean-acidification-on-reefs-with-new-series-of-buoys/)** 
+— Read about the real-world impact of this work.
+
 ---
 
 ## 📄 Publications
