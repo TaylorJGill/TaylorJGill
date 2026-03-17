@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Taylor Gill 👋
 
-<!--
-**TaylorJGill/TaylorJGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Environmental Data Scientist | BS Marine & Atmospheric Science 
+(Marine Biology) | MS Data Science – Remote Sensing (UM, 2026)**
 
-Here are some ideas to get you started:
+I build real-time monitoring systems and data pipelines that turn 
+environmental sensor data into actionable insights for reef health, 
+climate response, and resource management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 What I Do
+- **Real-time sensor systems** — end-to-end pipelines for pH, 
+  temperature, wave, and wind data
+- **Automated QA/QC workflows** — reducing data lag and enabling 
+  rapid response to environmental anomalies
+- **Interactive dashboards** — R Shiny and stakeholder-facing 
+  visualizations for operational decision-making
+- **Marine field operations** — instrumentation deployment across 
+  U.S. territories as Dive Lead
+
+---
+
+## 🛠️ Tools & Skills
+**Languages:** Python, R, SQL, MATLAB, C++  
+**Platforms:** MySQL, RStudio, Jupyter, GIS, GitHub  
+**Specialties:** Data Engineering, QA/QC Automation, 
+API Integration, Remote Sensing
+
+---
+
+## 🌊 Featured Projects
+
+**[MIR App](https://coral.aoml.noaa.gov/mir/)** — Live reef 
+monitoring dashboard built for NOAA AOML. Displays real-time 
+environmental sensor data to support climate response operations.
+
+**[NCRMP Time Series Data](https://taylorjgill.github.io/NCRMP-Time-Series-Data/)** 
+— Instrument data cleaning and visualization pipeline for NOAA's 
+National Coral Reef Monitoring Program.
+
+**[USVI Ocean Acidification Analysis](https://taylorjgill.github.io/USVI-OA-Data-Analysis/)** 
+— Multi-instrument analysis of a 3–5 year ocean acidification 
+experiment across reef sites in St. Thomas, USVI.
+
+---
+
+## 📄 Publications
+- *Innovative Solution for Real-Time Ocean Acidification Monitoring* 
+  — Under review, HardwareX (2026)
+- Co-author, *Elevated temperature decreases stony coral tissue loss 
+  disease transmission* — Sci Rep (2025)
+
+---
+
+## 📬 Get In Touch
+📧 taylorgill249@gmail.com  
+📍 Miami, FL
