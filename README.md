@@ -29,19 +29,11 @@ API Integration, Remote Sensing
 
 ---
 
-## 🌊 Featured Projects
+## 🌊 Live Projects
 
 **[MIR App](https://coral.aoml.noaa.gov/mir/)** — Live reef 
 monitoring dashboard built for NOAA AOML. Displays real-time 
 environmental sensor data to support climate response operations.
-
-**[NCRMP Time Series Data](https://taylorjgill.github.io/NCRMP-Time-Series-Data/)** 
-— Instrument data cleaning and visualization pipeline for NOAA's 
-National Coral Reef Monitoring Program.
-
-**[USVI Ocean Acidification Analysis](https://taylorjgill.github.io/USVI-OA-Data-Analysis/)** 
-— Multi-instrument analysis of a 3–5 year ocean acidification 
-experiment across reef sites in St. Thomas, USVI.
 
 ---
 
