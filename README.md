@@ -48,6 +48,15 @@ environmental sensor data to support climate response operations.
 
 ---
 
+## 📚 Academic Work
+**[97 corals and counting: A large-scale assisted migration across Florida's coral reef](https://scholarship.miami.edu/esploro/outputs/991031752316002976#files_and_links_(1))**  
+*University of Miami, Rosenstiel School of Marine and Atmospheric Science (2022)*
+
+**[Undergraduate Research Poster](https://undergraduate.rsmas.miami.edu/_assets/pdf/2021-2022/rurs_pdf/tgill_poster.pdf)**  
+*University of Miami RURS Symposium (2022)*
+
+--
+
 ## 📬 Get In Touch
 📧 taylorgill249@gmail.com  
 📍 Miami, FL
