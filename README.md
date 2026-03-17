@@ -43,8 +43,9 @@ environmental sensor data to support climate response operations.
 ## 📄 Publications
 - *Innovative Solution for Real-Time Ocean Acidification Monitoring* 
   — Under review, HardwareX (2026)
-- Co-author, *Elevated temperature decreases stony coral tissue loss 
-  disease transmission* — Sci Rep (2025)
+- Co-author, *[Elevated temperature decreases stony coral tissue loss 
+  disease transmission](https://www.nature.com/articles/s41598-025-06322-0)* 
+  — Sci Rep (2025)
 
 ---
 
