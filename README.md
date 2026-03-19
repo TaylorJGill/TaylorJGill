@@ -1,4 +1,4 @@
-# Hi, I'm Taylor Gill 👋
+# Hi, I'm Taylor Gill
 
 **Environmental Data Scientist | BS Marine & Atmospheric Science 
 (Marine Biology) | MS Data Science – Remote Sensing (UM, 2026)**
@@ -9,7 +9,7 @@ climate response, and resource management.
 
 ---
 
-## 🔬 What I Do
+## What I Do
 - **Real-time sensor systems** — end-to-end pipelines for pH, 
   temperature, wave, and wind data
 - **Automated QA/QC workflows** — reducing data lag and enabling 
@@ -21,7 +21,7 @@ climate response, and resource management.
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 **Languages:** Python, R, SQL, MATLAB, C++  
 **Platforms:** MySQL, RStudio, Jupyter, GIS, GitHub  
 **Specialties:** Data Engineering, QA/QC Automation, 
@@ -29,18 +29,18 @@ API Integration, Remote Sensing
 
 ---
 
-## 🌊 Live Projects
+## Live Projects
 
 **[MIR App](https://coral.aoml.noaa.gov/mir/)** — Live reef 
 monitoring dashboard built for NOAA AOML. Displays real-time 
 environmental sensor data to support climate response operations.
 
-📰 **[Featured in NOAA Web Story](https://www.aoml.noaa.gov/ocean-acidification-on-reefs-with-new-series-of-buoys/)** 
+**[Featured in NOAA Web Story](https://www.aoml.noaa.gov/ocean-acidification-on-reefs-with-new-series-of-buoys/)** 
 — Read about the real-world impact of this work.
 
 ---
 
-## 📄 Publications
+## Publications
 - *Innovative Solution for Real-Time Ocean Acidification Monitoring* 
   — Under review, HardwareX (2026)
 - Co-author, *[Elevated temperature decreases stony coral tissue loss 
@@ -49,7 +49,7 @@ environmental sensor data to support climate response operations.
 
 ---
 
-## 📚 Academic Work
+## Academic Work
 **[97 corals and counting: A large-scale assisted migration across Florida's coral reef](https://scholarship.miami.edu/esploro/outputs/991031752316002976#files_and_links_(1))**  
 *University of Miami, Rosenstiel School of Marine and Atmospheric Science (2022)*
 
@@ -58,6 +58,6 @@ environmental sensor data to support climate response operations.
 
 ---
 
-## 📬 Get In Touch
-📧 taylorgill249@gmail.com  
-📍 Miami, FL
+## Get In Touch
+taylorgill249@gmail.com  
+Miami, FL
