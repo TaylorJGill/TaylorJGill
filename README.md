@@ -1,7 +1,6 @@
 # Hi, I'm Taylor Gill
 
-**Environmental Data Scientist | BS Marine & Atmospheric Science 
-(Marine Biology) | MS Data Science – Remote Sensing (UM, 2026)**
+**Environmental Data Scientist | MS Data Science – Remote Sensing (UM, 2026) | BS Marine & Atmospheric Science (Marine Biology)** 
 
 I build real-time monitoring systems and data pipelines that turn environmental sensor data into actionable insights for reef health, climate response, and resource management. Currently completing my MS in Data Science (Remote Sensing) at the University of Miami.
 
