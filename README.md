@@ -3,9 +3,7 @@
 **Environmental Data Scientist | BS Marine & Atmospheric Science 
 (Marine Biology) | MS Data Science – Remote Sensing (UM, 2026)**
 
-I build real-time monitoring systems and data pipelines that turn 
-environmental sensor data into actionable insights for reef health, 
-climate response, and resource management.
+I build real-time monitoring systems and data pipelines that turn environmental sensor data into actionable insights for reef health, climate response, and resource management. Currently completing my MS in Data Science (Remote Sensing) at the University of Miami.
 
 ---
 
@@ -23,7 +21,7 @@ climate response, and resource management.
 
 ## Tools & Skills
 **Languages:** Python, R, SQL, MATLAB, C++  
-**Platforms:** MySQL, RStudio, Jupyter, GIS, GitHub  
+**Platforms:** MySQL, RStudio, Jupyter, GIS, GitHub, TensorFlow/Keras  
 **Specialties:** Data Engineering, QA/QC Automation, 
 API Integration, Remote Sensing
 
