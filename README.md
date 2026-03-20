@@ -2,19 +2,21 @@
 
 **Environmental Data Scientist | M.S. Data Science – Remote Sensing (UM, 2026) | B.S. Marine & Atmospheric Science (Marine Biology)** 
 
-I build real-time monitoring systems and data pipelines that turn environmental sensor data into actionable insights for reef health, climate response, and resource management. Currently completing my MS in Data Science (Remote Sensing) at the University of Miami.
+I build real-time monitoring systems and data pipelines that turn environmental sensor data into actionable insights for reef health, climate response, and resource management. Currently completing my MS in Data Science (Remote Sensing) at the University of Miami, with a growing interest in applying remote sensing and data science to large-scale wildlife tracking and conservation monitoring.
 
 ---
 
 ## What I Do
 - **Real-time sensor systems** — end-to-end pipelines for pH, 
-  temperature, wave, and wind data
+  temperature, wave, and wind data from ocean buoy networks
 - **Automated QA/QC workflows** — reducing data lag and enabling 
   rapid response to environmental anomalies
 - **Interactive dashboards** — R Shiny and stakeholder-facing 
   visualizations for operational decision-making
-- **Marine field operations** — instrumentation deployment across 
-  U.S. territories as Dive Lead
+- **Machine learning & remote sensing** — image classification, 
+  signal processing, and spatial analysis for environmental applications
+- **Marine field operations** — instrumentation deployment and 
+  maintenance across Florida and U.S. territories as Dive Lead
 
 ---
 
